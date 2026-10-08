@@ -1,4 +1,5 @@
 def greet(name):
-return f"hey, {name}!"
+	return f"Greetings, {name}!"
+
 if __name__ == "__main__":
-print(greet("world"))
+	print(greet("world"))
